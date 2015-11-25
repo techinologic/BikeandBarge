@@ -7,5 +7,6 @@
     <string name="txtTitle">Summer - Bike and Barge Europe Tour</string>
     <string name="txtInfo">Join us for a dream vacation filled with biking in cities throughout Europe from Amsterdam to Budapest. The next trip leaves in June 2.</string>
     <string name="txtDescription">Bike and Barge Image</string>
+    <string name="test_string">This is a test</string>
 
 </resources>
